@@ -17,6 +17,9 @@ char *cap_string(char *);
 
 char *leet(char *);
 
+char *_strpbrk(char *s, char *accept);
+
+
 char *_memset(char *s, char b, unsigned int n);
 
 char *_strncat(char *dest, char *src, int n);
