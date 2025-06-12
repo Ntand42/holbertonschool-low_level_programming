@@ -19,6 +19,8 @@ char *leet(char *);
 
 char *_strpbrk(char *s, char *accept);
 
+char *_strstr(char *haystack, char *needle);
+
 
 char *_memset(char *s, char b, unsigned int n);
 
